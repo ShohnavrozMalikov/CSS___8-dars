@@ -1,0 +1,47 @@
+body{
+    background-color: lightgreen;
+}
+.wrap{
+    width: 500px;
+    height: 400px;
+    box-shadow: 0 0 10px black;
+    margin: 100px auto;
+    background-color: dimgrey;
+}
+input{
+    width: 460px;
+    height: 30px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    background-color: darkgrey;
+}
+label{
+    margin-left: 20px;
+}
+.billing{
+    border-bottom: 1px solid black;
+    border-top: 1px solid #ccc;
+    background-color: darkgrey;
+}
+h3{
+    margin-left: 210px;
+    margin-top: 10px;
+    color: white;
+}
+.all1{
+    margin-top: 10px;
+    width: 170px;
+    background-color: darkgrey;
+}
+.all2{
+    width: 170px;
+    background-color: darkgrey;
+}
+input[type=submit]{
+    width: 35%;
+    display: block;
+    margin: 20px auto;
+    background-color: gold;
+    color: black;
+    border: 1px solid lightgrey;
+}
